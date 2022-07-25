@@ -1,0 +1,7 @@
+2	106	Leon	4/5/2016	4/5/2021	69		0696xxxxxxx	JlAyamRebus	21	LeonSportCenter	6	Volleyball	1
+4	103	Acien	2/3/2004	2/3/2020	450		0832xxxxxxxx	JlAyamGoreng	69	SutongAcademy	7	Basketball	1
+4	105	Mingsen	12/4/2018	12/4/2022	300		0231xxxxxxx	JlAyamGeprek	42	MingsenSportCenter	4	Archery	1
+4	107	Leilei	6/7/2018	6/7/2023	70		0822xxxxxxx	JlAyamKecap	44	LeileiSportCenter	8	Cricket	1
+4.5	102	Sutong	21/11/2002	21/11/2020	400		0823xxxxxxxx	JlAyamBakar	69	SutongAcademy	1	Swimming	4.0
+4.8	101	MarcellAW	13/10/2001	13/10/2021	499		0821xxxxxxxx	JlAyamPenyet	69	MacelAcademy	2	Badminton	5.0
+5	104	Jong	1/2/2013	1/2/2023	450		0919xxxxxxx	JlAyamHainan	90	JongSportCenter	5	Gymnastics	1

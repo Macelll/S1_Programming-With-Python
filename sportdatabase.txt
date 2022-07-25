@@ -1,0 +1,10 @@
+1	Swimming	SutongSportCenter	Nicholas	20
+2	Badminton	MacelAcademy	Macel	69
+3	Football	MacelAcademy	Mingsen	10
+4	Archery	JongSportCenter	Jong	50
+5	Gymnastics	JongSportCenter	Jong	20
+6	Volleyball	LeileiSportCenter	Leilei	25
+7	Basketball	SutongAcademy	Acien	40
+8	Cricket	LeileiSpportCenter	Leilei	30
+9	Tennis	MacelAcademy	Macel	69
+10	TableTenis	LeonSportCenter	Leon	1
